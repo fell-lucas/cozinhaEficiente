@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 date_default_timezone_set('America/Sao_Paulo');
-$config['base_url'] = 'https://infinitemacaron.github.io/cozinhaEficiente/';
+$config['base_url'] = 'http://localhost/cozinhaEficiente/';
 $config['index_page'] = '';
 $config['uri_protocol']	= 'REQUEST_URI';
 $config['url_suffix'] = '';
