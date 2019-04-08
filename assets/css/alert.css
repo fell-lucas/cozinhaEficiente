@@ -1,0 +1,6 @@
+.alert {
+    top: 20px !important; 
+    position: absolute !important; 
+    z-index:9999 !important;
+    text-align: center !important;
+}

@@ -1,0 +1,7 @@
+.btnesmaecer{
+    opacity: 1
+}
+.btnesmaecer:hover{
+    opacity:0.7;
+    cursor: pointer
+}
