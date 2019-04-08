@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'cEficiente',
+	'hostname' => 'sql9.freemysqlhosting.net',
+	'username' => 'sql9287100',
+	'password' => 'AKlCNi2Ci1',
+	'database' => 'sql9287100',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
